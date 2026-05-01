@@ -1,9 +1,12 @@
-install libraries,
-pip install requests
+:-  Install required package
+pip install requests urllib3
+
+:-  Run the script
+python ssr_load_tester.py
 
 Set up a test environment (like XAMPP, MAMP, or a local Flask server)
 Ensure you have permission to test the target
-Run the script with python DDOS-code.py.py
+Run the script with python ssr_load_tester.py
 Enter the target URL (e.g. http://localhost:8000)
 
 Disclaimer : :

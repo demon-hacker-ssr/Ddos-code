@@ -1,1 +1,10 @@
+install libraries,
+pip install requests
 
+Set up a test environment (like XAMPP, MAMP, or a local Flask server)
+Ensure you have permission to test the target
+Run the script with python DDOS-code.py.py
+Enter the target URL (e.g. http://localhost:8000)
+
+Disclaimer : :
+Unauthorized load testing is a federal crime with serious consequences. Always get written permission first.
